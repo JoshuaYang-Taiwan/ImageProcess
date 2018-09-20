@@ -1,0 +1,4 @@
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache

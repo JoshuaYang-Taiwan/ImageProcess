@@ -1,0 +1,69 @@
+C:\Users\tony\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\tony\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tony\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\tony\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\tony\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\tony\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\tony\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\tony\Desktop\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\tony\Desktop\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\AllTogether\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AllTogether\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\AllTogether\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tony\Documents\我的\課程\大三上\影像處理\整合\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\專題\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\專題\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\專題\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\專題\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\專題\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\專題\AllTogether (switch)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\專題\AllTogether (switch)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\專題\AllTogether (switch)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\bin\Debug\Emgu.CV.xml
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\bin\Debug\Emgu.Util.xml
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\User\Desktop\專題\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\bin\Debug\Emgu.CV.xml
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\bin\Debug\Emgu.Util.xml
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Joey\Desktop\Image Processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
